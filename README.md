@@ -1,5 +1,7 @@
-Technologies used: React (only).
-Software is under development. This image may be out of date, please download the git files and do your own testing.
+## Technologies used: React (only).
+
+Software is under development. This image may be out of date, please download the git files and do your own testing:
+
 ![react-css](src/react-css.png)
 
 # Getting Started with Create React App
