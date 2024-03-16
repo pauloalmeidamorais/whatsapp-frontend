@@ -7,28 +7,32 @@
 }
 
 #search {
+    border-bottom: 1px solid #202C33;  
+}
+
+#search section {
     display: flex;
     align-items: center;
     background-color: #26323a;
     padding: 0px 20px;
     border-radius: 8px;
-    margin: 20px;
+    margin: 15px;
 }
 
-#search input {
+#search section input {
     width: 100%;
     background-color: transparent;
     padding: 10px;
     border-color: transparent;
-    font-size: 20px;
+    font-size: 14px;
     color: white;
 }
 
-#search input::placeholder {
+#search section input::placeholder {
     color: #8696a0;
 }
 
-#search input:focus {
+#search section input:focus {
     outline: none;
 }
 

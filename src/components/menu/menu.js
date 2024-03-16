@@ -9,9 +9,7 @@ const Menu = () => {
         <div id='Menu'>
 
             <MenuHeader />
-
             <MenuSearch />
-            
             <MenuMessages />
 
         </div>

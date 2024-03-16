@@ -1,25 +1,7 @@
 #header {
   background-color: #202C33;
   top: 0;
-  color:white;
-  padding: 20px;
-}
-
-#header .photo-user {
-  position: relative;
-  width: 60px;
-  height: 60px; 
-  border-radius: 50%;
-  overflow: hidden;
-}
-
-#header .photo-user img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%; 
-  height: 100%; 
-  object-fit: cover;
+  padding: 15px;
 }
 
 #header .opcoes-botao {

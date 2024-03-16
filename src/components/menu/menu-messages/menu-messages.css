@@ -1,0 +1,26 @@
+#messages{
+    background-color: transparent;
+}
+
+#messages .box {
+    background-color: transparent;
+    padding: 20px;
+    display:flex;
+    border-bottom: 1px solid #202C33;   
+}
+
+#messages .box:hover {
+    background-color: #202C33;
+}
+
+#messages .message-final{
+    padding: 20px;
+    font-size: 11px;
+    text-align: center;
+    color: #dcdcee;
+    
+}
+.text-link {
+    color: #53bdeb;
+}
+

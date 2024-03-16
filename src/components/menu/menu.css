@@ -1,12 +1,19 @@
 #Menu {
     top: 0;
     left: 0; 
-    width: 600px;
+    width: 450px;
     height: 100%;
     background-color: #111b21;
     position: fixed;
     overflow-y: auto;
-  }
+    color:white;
+}
+
+.img-circle{
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+}
 
 
   
