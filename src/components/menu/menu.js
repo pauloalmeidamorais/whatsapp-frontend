@@ -8,7 +8,7 @@ const Menu = () => {
     return (
         <div id='Menu'>
 
-            <MenuHeader />
+            <MenuHeader /> 
 
             <MenuSearch />
             

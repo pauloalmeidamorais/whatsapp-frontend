@@ -7,7 +7,7 @@ import Panel from './components/panel/panel';
 
 function App() {
   return (
-    <div>
+    <div id='Screen'>
       
       <Menu />  
 

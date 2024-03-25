@@ -1,3 +1,11 @@
+
+#Screen{
+  display: flex;
+  height: 919px;
+  background-color: #111b21;
+
+}
+
 .App {
   text-align: center;
 }
