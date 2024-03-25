@@ -1,7 +1,8 @@
 .PanelBackground {
-    background-color: #0d171d;
     color: black;
-    border: 1px solid #2e3c44;
+    background-color: #ffffff;
+    /* background-color: #0d171d; */
+    /* border: 1px solid #2e3c44; */
     padding: 10px;
     height: 100%;   
     width: 1473px;
