@@ -1,4 +1,4 @@
-## Technologies used: React (only).
+## Technologies used: React (only!)
 
 Software is under development. This image may be out of date, please download the git files and do your own testing:
 
